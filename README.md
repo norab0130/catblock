@@ -28,7 +28,7 @@ If you can't wait for an official release of CatBlock on Windows Store, [find ou
 CatBlock is compatible with following browsers:
 - Chrome: 49+
 - Opera: 35+
-- Safari: 6+
+- Safari: 6+ (Until September 1st, 2019 due to dropped support)
 - Firefox: 48+
 - Edge: Windows 10 Anniversary - version 1607
 
